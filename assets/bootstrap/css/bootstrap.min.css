@@ -328,39 +328,39 @@ h6, .h6 {
 
 .lead {
   font-size: 1.0625rem;
-  font-weight: 100; }
+  font-weight: 200; }
 
 .display-1 {
-  font-size: 5.95rem;
+  font-size: 10.2rem;
   font-weight: 300;
   line-height: 1.2; }
   @media (max-width: 1200px) {
     .display-1 {
-      font-size: calc(1.72rem + 5.64vw) ; } }
+      font-size: calc(2.145rem + 10.74vw) ; } }
 
 .display-2 {
-  font-size: 5.1rem;
+  font-size: 7.65rem;
   font-weight: 300;
   line-height: 1.2; }
   @media (max-width: 1200px) {
     .display-2 {
-      font-size: calc(1.635rem + 4.62vw) ; } }
+      font-size: calc(1.89rem + 7.68vw) ; } }
 
 .display-3 {
-  font-size: 4.25rem;
+  font-size: 5.95rem;
   font-weight: 300;
   line-height: 1.2; }
   @media (max-width: 1200px) {
     .display-3 {
-      font-size: calc(1.55rem + 3.6vw) ; } }
+      font-size: calc(1.72rem + 5.64vw) ; } }
 
 .display-4 {
-  font-size: 3.4rem;
+  font-size: 4.675rem;
   font-weight: 300;
   line-height: 1.2; }
   @media (max-width: 1200px) {
     .display-4 {
-      font-size: calc(1.465rem + 2.58vw) ; } }
+      font-size: calc(1.5925rem + 4.11vw) ; } }
 
 hr {
   margin-top: 1rem;
