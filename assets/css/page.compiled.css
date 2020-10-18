@@ -7,6 +7,14 @@
   color: white;
 }
 
+header .btn svg path {
+  fill: black;
+}
+
+header .btn:hover svg path {
+  fill: white;
+}
+
 .line-height-none {
   line-height: 1 !important;
 }
