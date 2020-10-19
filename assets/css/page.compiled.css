@@ -3,6 +3,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.navbar-brand {
+  font-size: 1.35rem;
+}
+
 .btn-primary {
   color: white;
 }
